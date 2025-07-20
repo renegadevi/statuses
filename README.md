@@ -6,7 +6,7 @@ Easily scan trough folders with multiple repos. Useful for multi repo projects.
 
 
 | `statuses` | `statuses --simple` | `statuses -a` |
-:-------------------------:|:-------------------------:
+:-------------------------:|:-------------------------:|:-------------------------:
 ![](https://raw.githubusercontent.com/renegadevi/statuses/main/.github/statuses.png)|![](https://raw.githubusercontent.com/renegadevi/statuses/main/.github/statuses--simple.png)|![](https://raw.githubusercontent.com/renegadevi/statuses/main/.github/statuses-a.png)
 
 
