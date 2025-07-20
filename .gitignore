@@ -1,0 +1,42 @@
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore log files and temporary files
+*.log
+*.tmp
+
+# Ignore compiled or binary files
+*.o
+*.so
+*.exe
+*.out
+
+# Ignore dependency directories
+node_modules/
+vendor/
+build/
+
+# Ignore coverage and test result files
+coverage/
+*.gcda
+*.gcno
+*.gcov
+test-results/
+
+# Ignore archives
+*.zip
+*.tar.gz
+*.tgz
+*.7z
+
+# Ignore Homebrew artifacts
+*.bottle.tar.gz
+
+# Ignore editor/IDE specific files
+.vscode/
+.idea/
+*.swp
+
+# Ignore symlinks or generated binaries
+bin/statuses
